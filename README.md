@@ -10,3 +10,6 @@ Get:
 How to use:
 
 Input filepath to modfile to load when prompted
+---
+
+This is being archived and tagged as "garbage" (as it should)
